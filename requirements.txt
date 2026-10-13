@@ -1,0 +1,9 @@
+streamlit>=1.65
+altair
+pandas
+numpy
+scikit-learn
+mysql-connector-python
+bcrypt
+python-dotenv
+openpyxl
