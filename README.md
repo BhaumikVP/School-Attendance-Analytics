@@ -111,7 +111,7 @@ To start over, run `DROP DATABASE attendance;` in MySQL, then repeat steps 3 and
 
 ## Demo logins
 
-These accounts are created by `seed.py` for demonstration only. Change or remove them before any real use.
+These accounts are created by `seed.py` for demonstration only.
 
 | Role | Email | Password |
 |---|---|---|
